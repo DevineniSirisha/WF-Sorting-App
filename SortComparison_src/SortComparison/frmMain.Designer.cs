@@ -113,12 +113,15 @@
             // 
             // cmdSort
             // 
+            this.cmdSort.BackColor = System.Drawing.SystemColors.Highlight;
+            this.cmdSort.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmdSort.ForeColor = System.Drawing.Color.Maroon;
             this.cmdSort.Location = new System.Drawing.Point(344, 257);
             this.cmdSort.Name = "cmdSort";
             this.cmdSort.Size = new System.Drawing.Size(75, 23);
             this.cmdSort.TabIndex = 5;
             this.cmdSort.Text = "Sort";
-            this.cmdSort.UseVisualStyleBackColor = true;
+            this.cmdSort.UseVisualStyleBackColor = false;
             this.cmdSort.Click += new System.EventHandler(this.cmdSort_Click);
             // 
             // pnlSort1

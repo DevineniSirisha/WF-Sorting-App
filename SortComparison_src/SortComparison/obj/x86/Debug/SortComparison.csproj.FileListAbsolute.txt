@@ -22,6 +22,7 @@ C:\Users\s531367\Documents\44663\WF-Sorting-App\SortComparison_src\SortCompariso
 C:\Users\s531367\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
 C:\Users\s531367\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\s531367\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
+<<<<<<< HEAD
 C:\masters\C#.net\WF-Sorting-App\SortComparison_src\SortComparison\bin\Debug\SortComparison.exe
 C:\masters\C#.net\WF-Sorting-App\SortComparison_src\SortComparison\bin\Debug\SortComparison.pdb
 C:\masters\C#.net\WF-Sorting-App\SortComparison_src\SortComparison\bin\Debug\Gif.Components.dll
@@ -34,3 +35,17 @@ C:\masters\C#.net\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug
 C:\masters\C#.net\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
 C:\masters\C#.net\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\masters\C#.net\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
+=======
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\bin\Debug\SortComparison.exe
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\bin\Debug\SortComparison.pdb
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\bin\Debug\Gif.Components.dll
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\bin\Debug\Gif.Components.pdb
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\Users\S533985\Documents\44663\WF-Sorting-App\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
+>>>>>>> 519a0c22b0723e3841b357c23e472bc10a142d04
