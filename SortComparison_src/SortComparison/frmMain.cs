@@ -29,7 +29,7 @@ namespace SortComparison
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            this.tbSamples.Value = 100;
         }
 
         public void Randomize(IList list)
