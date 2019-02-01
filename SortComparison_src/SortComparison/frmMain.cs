@@ -30,6 +30,14 @@ namespace SortComparison
         private void Form1_Load(object sender, EventArgs e)
         {
             this.tbSamples.Value = 100;
+            this.cboAlg1.SelectedIndex = 2;
+            this.cboAlg2.SelectedIndex = 12;
+            InitializeOutputFolder();
+            this.cmdShuffle.PerformClick();
+        }
+        private string InitializeOutputFolder()
+        {
+            return AppDomain.CurrentDomain.BaseDirectory.ToString() + "\\output";
         }
 
         public void Randomize(IList list)
