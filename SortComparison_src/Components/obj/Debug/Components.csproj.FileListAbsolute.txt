@@ -1,5 +1,0 @@
-C:\Users\s531367\Desktop\Spring 2019\dotnetstudent\SortComparison_src\Components\bin\Debug\Gif.Components.dll
-C:\Users\s531367\Desktop\Spring 2019\dotnetstudent\SortComparison_src\Components\bin\Debug\Gif.Components.pdb
-C:\Users\s531367\Desktop\Spring 2019\dotnetstudent\SortComparison_src\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
-C:\Users\s531367\Desktop\Spring 2019\dotnetstudent\SortComparison_src\Components\obj\Debug\Gif.Components.dll
-C:\Users\s531367\Desktop\Spring 2019\dotnetstudent\SortComparison_src\Components\obj\Debug\Gif.Components.pdb

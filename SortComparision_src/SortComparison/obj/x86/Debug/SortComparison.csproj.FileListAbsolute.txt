@@ -1,0 +1,12 @@
+C:\masters\C#.net\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\masters\C#.net\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\masters\C#.net\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\masters\C#.net\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\masters\C#.net\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\masters\C#.net\SortComparison_src\SortComparison\bin\Debug\SortComparison.exe
+C:\masters\C#.net\SortComparison_src\SortComparison\bin\Debug\SortComparison.pdb
+C:\masters\C#.net\SortComparison_src\SortComparison\bin\Debug\Gif.Components.dll
+C:\masters\C#.net\SortComparison_src\SortComparison\bin\Debug\Gif.Components.pdb
+C:\masters\C#.net\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+C:\masters\C#.net\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\masters\C#.net\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb

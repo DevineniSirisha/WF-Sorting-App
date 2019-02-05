@@ -1,0 +1,6 @@
+C:\masters\C#.net\SortComparison_src\Components\bin\Debug\Gif.Components.dll
+C:\masters\C#.net\SortComparison_src\Components\bin\Debug\Gif.Components.pdb
+C:\masters\C#.net\SortComparison_src\Components\obj\Debug\Components.csprojAssemblyReference.cache
+C:\masters\C#.net\SortComparison_src\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+C:\masters\C#.net\SortComparison_src\Components\obj\Debug\Gif.Components.dll
+C:\masters\C#.net\SortComparison_src\Components\obj\Debug\Gif.Components.pdb
