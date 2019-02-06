@@ -229,7 +229,7 @@
             this.txtOutputFolder.Name = "txtOutputFolder";
             this.txtOutputFolder.Size = new System.Drawing.Size(215, 20);
             this.txtOutputFolder.TabIndex = 16;
-            this.txtOutputFolder.Text = InitializeOutputFolder();
+            this.txtOutputFolder.Text ="E://sort";
             // 
             // label4
             // 

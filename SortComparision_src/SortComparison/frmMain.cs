@@ -25,10 +25,12 @@ namespace SortComparison
         public frmMain()
         {
             InitializeComponent();
+           
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.txtOutputFolder.Text = InitializeOutputFolder();
             this.tbSamples.Value = 100;
             this.cboAlg1.SelectedIndex = 3;
             this.cboAlg2.SelectedIndex = 12;
@@ -173,7 +175,7 @@ namespace SortComparison
                     }
                     if(chkAnimation.Checked)
                         sa.CreateAnimation();
-                    MessageBox.Show("Finish");
+                    MessageBox.Show($"{alg1} Finish");
                 }
                 catch (Exception err)
                 {
@@ -235,7 +237,7 @@ namespace SortComparison
                     }
                     if (chkAnimation.Checked)
                         sa2.CreateAnimation();
-                    MessageBox.Show("Finish");
+                    MessageBox.Show($"{alg2} Finish");
                 }
                 catch (Exception err)
                 {
