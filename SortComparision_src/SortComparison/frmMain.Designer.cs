@@ -173,6 +173,7 @@
             this.label1.Size = new System.Drawing.Size(75, 13);
             this.label1.TabIndex = 10;
             this.label1.Text = "Sorting speed:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // tbSpeed
             // 
@@ -229,7 +230,7 @@
             this.txtOutputFolder.Name = "txtOutputFolder";
             this.txtOutputFolder.Size = new System.Drawing.Size(215, 20);
             this.txtOutputFolder.TabIndex = 16;
-            this.txtOutputFolder.Text ="E://sort";
+            this.txtOutputFolder.Text = "E://sort";
             // 
             // label4
             // 
@@ -244,6 +245,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ForeColor = System.Drawing.Color.LightGreen;
+            this.BackColor = System.Drawing.Color.DarkGreen;
             this.ClientSize = new System.Drawing.Size(434, 359);
             this.Controls.Add(this.btnSelectFolder);
             this.Controls.Add(this.txtOutputFolder);
