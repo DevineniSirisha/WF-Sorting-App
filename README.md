@@ -39,8 +39,18 @@ cboAlg2 is the combo box in right side of the mainframe.
 
 InitializeOutputFolder() will get string that represents the base directory.  
 
-**10.	Create a new method called InitializeOutputFolder() and call it - see the suggested content below. What does this method do?**  
+**10.	Create a new method called InitializeOutputFolder() and call it - see the suggested content below. What does this method do?**
 
-Cmdshuffle is the windows button control.
+We created a method InitializeOutputFolder(). It will get the base directory and save the images to the folder.
 
+**11. What is this.cmdShuffle?  Call its PerformClick() method before exiting Form1_Load.**
 
+It is a windows form  button. In our project, we used this button to shuffle the samples. PerformClick() generates the click event for the button. 
+
+**12. What is this.cmdSort?  Change its appearance (e.g. ForeColor or BackColor) to highlight it so users will click it.** 
+
+It is a windows form button. We used this button to sort the samples.
+
+**13. Make at least one other obvious improvement or customization as desired.**
+
+We made incremental commits in the repo. Each and every member of our team made some changes in appearances and output responses.
