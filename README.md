@@ -21,7 +21,7 @@ The main form constructor calls InitializeComponent() method.
 
 **5. What is the fully qualified name of the class from which the main form is derived?**  
 
-Program.cs is the fully qualified name of the class from which the main form is derived.  
+ The class frmMain is derived from Form class(System.Windows.Forms.Form) and SortComparison.frmMain is the fully qualified name of the class frmMain.
 
 **6. Add code to the Form1_Load method - use intellisense and your IDE to determine: What is this.tbSamples.Value?**  
 
