@@ -29,11 +29,11 @@ this.tbSamples.Value represents the number of sample of standard windows trackba
 
 **7.	What is this.cboAlg1?  Set its SelectedIndex to an integer so that the default is Bucket Sort.**  
 
-cboAlg1 is the combo Box on left side.  
+cboAlg1 is the combo Box on left side. It represents the algorithm 1(Bucket Sort) which we pick from the list box.  
 
 **8.	What is this.cboAlg2? Set its SelectedIndex to an integer so that the default is Quick Sort.**  
 
-cboAlg2 is the combo box in right side of the mainframe.  
+cboAlg2 is the combo box in right side of the mainframe.It represents the algorithm 2(Quick Sort) which we pick from the list box.  
 
 **9. Use AppDomain.CurrentDomain.BaseDirectory.ToString() to get the base directory.**  
 
