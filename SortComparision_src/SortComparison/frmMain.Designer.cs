@@ -126,7 +126,7 @@
             // 
             // pnlSort1
             // 
-            this.pnlSort1.BackColor = System.Drawing.Color.White;
+            this.pnlSort1.BackColor = System.Drawing.Color.PeachPuff;
             this.pnlSort1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pnlSort1.Location = new System.Drawing.Point(13, 12);
             this.pnlSort1.Name = "pnlSort1";
@@ -136,7 +136,7 @@
             // 
             // pnlSort2
             // 
-            this.pnlSort2.BackColor = System.Drawing.Color.White;
+            this.pnlSort2.BackColor = System.Drawing.Color.PeachPuff;
             this.pnlSort2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pnlSort2.Location = new System.Drawing.Point(219, 12);
             this.pnlSort2.Name = "pnlSort2";
@@ -245,8 +245,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ForeColor = System.Drawing.Color.LightGreen;
-            this.BackColor = System.Drawing.Color.DarkGreen;
+            this.BackColor = System.Drawing.Color.DarkSalmon;
             this.ClientSize = new System.Drawing.Size(434, 359);
             this.Controls.Add(this.btnSelectFolder);
             this.Controls.Add(this.txtOutputFolder);
@@ -264,6 +263,7 @@
             this.Controls.Add(this.cmdShuffle);
             this.Controls.Add(this.cboAlg2);
             this.Controls.Add(this.cboAlg1);
+            this.ForeColor = System.Drawing.Color.Blue;
             this.Name = "frmMain";
             this.Text = "Sort Comparison";
             this.Load += new System.EventHandler(this.Form1_Load);

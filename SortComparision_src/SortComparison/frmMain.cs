@@ -8,6 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Threading;
 using System.Collections;
+using System.IO;
 
 namespace SortComparison
 {
@@ -30,11 +31,17 @@ namespace SortComparison
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            if (!Directory.Exists(InitializeOutputFolder() + "\\output"))
+            {
+                Directory.CreateDirectory(InitializeOutputFolder() + "\\output");
+            }
+
             this.txtOutputFolder.Text = InitializeOutputFolder();
             this.tbSamples.Value = 100;
             this.cboAlg1.SelectedIndex = 3;
             this.cboAlg2.SelectedIndex = 12;
             this.cmdShuffle.PerformClick();
+            
         }
 
 
@@ -67,7 +74,7 @@ namespace SortComparison
             {
                 int x = (int)(((double)pnlSort1.Width / array1.Count) * i);
 
-                Pen pen = new Pen(Color.Black);
+                Pen pen = new Pen(Color.BlueViolet);
                 g1.DrawLine(pen, new Point(x, pnlSort1.Height), new Point(x, (int)(pnlSort1.Height - (int)array1[i])));
                 g2.DrawLine(pen, new Point(x, pnlSort1.Height), new Point(x, (int)(pnlSort2.Height - (int)array1[i])));
             }
