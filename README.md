@@ -9,7 +9,7 @@ After multiple tests, we found **Bucket Sort** to be faster than Quick Sort.
 
 **2. Where is the entry point of the application?**
 
-Program.cs is the entry point of the application.  
+SortComparision.Program.Main() is the entry point of the application.  
 
 **3. What is the name of the code file that displays the main form?**  
 
